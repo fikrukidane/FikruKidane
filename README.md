@@ -62,11 +62,6 @@
     - **Key Insights**: Created customer segments, identified high-revenue restaurants, and visualized key sales metrics over time.  
     - **[View Project](https://github.com/your-github/project5-link)**
 
-- **Web Development Portfolio**  
-  Description: A portfolio of responsive websites and web apps I’ve built using HTML, CSS, and JavaScript, focusing on user experience and functionality.
-  - [Personal Blog Website](https://github.com/your-github/personal-blog)
-  - [Interactive Resume](https://github.com/your-github/interactive-resume)
-
 ---
 
 ## 🏆 **Achievements**:
