@@ -28,7 +28,7 @@
       - Implemented data masking for sensitive fields like SSN and salary.  
       - Visualized transformed data using Data Studio, integrated with BigQuery.
     - **Outcome**: Successfully built a secure, scalable pipeline optimized for resource usage and data protection.  
-    - **[View Project](https://github.com/your-github/gcp-project-link)**
+    - **[View Project](request access)**
     - 
 - **TripleTen Data Projects**  
   
