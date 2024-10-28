@@ -18,7 +18,7 @@
 
 ## 🖥️ **Projects**:
 
-- **Upen Data Projects**
+- **Upen Data Project**
   
     ### 1. Secure and Scalable ETL Pipeline on Google Cloud Platform
     **Objective**: Build a scalable and secure ETL pipeline to handle sensitive employee data using Google Cloud services.  
