@@ -18,6 +18,16 @@
 
 ## 🖥️ **Projects**:
 
+- **[Named Entity Recognition (NER) Project](https://github.com/fikrukidane/NER-Project)**  
+    **Objective**: Develop an NLP-based pipeline for Named Entity Recognition to extract insights from financial and economic news.  
+    - **Technology Stack**: Python, spaCy, Hugging Face Transformers, MySQL  
+    - **Key Features**:  
+        - Designed a robust data pipeline to process news articles from multiple sources (e.g., GDELT, NewsAPI).  
+        - Integrated spaCy and Hugging Face models to extract named entities and store them in a structured format.  
+        - Developed a logging mechanism for tracking and debugging data processing.  
+        - Created a modular system for fetching, processing, and visualizing data insights.  
+    - **Outcome**: Successfully showcased the potential of automated entity recognition for business intelligence.  
+
 - **Upen Data Project**
   
     ### 1. Secure and Scalable ETL Pipeline on Google Cloud Platform
