@@ -18,16 +18,17 @@
 
 ## 🖥️ **Projects**:
 
-- **[TSIRD Atlas – Geospatial Data Engineering Pipeline](https://github.com/fikrukidane/tsird-atlas)** 🔒 *Private*  
-    **Objective**: Build a Docker-based geospatial ETL system for normalizing heterogeneous vector/raster datasets to EPSG:4326 with regional bounds validation and OGC WMS/WFS publication.  
-    - **Technology Stack**: Python 3.11, GeoPandas, GDAL 3.8, PostgreSQL 16 + PostGIS 3.4, MapServer 8.6, Docker Compose  
-    - **Key Features**:  
-        - CRS detection and normalization with YAML-driven coordinate overrides  
-        - Geometry validation (98% threshold) with automatic repair and quarantine logging  
-        - Regional separation engine (Tigray vs Ethiopia-wide classification)  
-        - MapServer WMS/WFS/WCS endpoints with multi-CRS support  
-        - Comprehensive audit trail generation (CSV + Markdown reports)  
-    - **Outcome**: Production-ready geospatial data engineering system demonstrating ETL design patterns, Docker orchestration, and OGC web services.  
+- **[TSIRD Atlas – Containerized Geospatial Data Engineering Platform](https://github.com/fikrukidane/tsird-atlas)** 🔒 *Private*  
+    **Objective**: Design and deploy a multi-container orchestrated system for geospatial ETL processing, demonstrating infrastructure-as-code, service isolation, and container networking patterns.  
+    - **Infrastructure Stack**: Docker Compose orchestration, multi-service architecture (4 containers), persistent volume management, inter-service networking  
+    - **Container Services**: PostgreSQL 16 + PostGIS (data tier), Python/GDAL ETL (compute tier), MapServer (application tier), Nginx (edge proxy)  
+    - **Key Architecture Decisions**:  
+        - Zero host dependencies—entire stack containerized for reproducibility  
+        - Declarative infrastructure (docker-compose.yml, Dockerfiles)  
+        - Service isolation with explicit networking and volume mounts  
+        - Stateful container management for database persistence  
+    - **Deployment Patterns**: Health checks, automated restarts, logging aggregation, configuration injection via environment variables  
+    - **Outcome**: Production-ready containerized platform demonstrating modern orchestration practices applicable to hybrid cloud migrations.  
 
 - **[Named Entity Recognition (NER) Project](https://github.com/fikrukidane/NER-Project)**  
     **Objective**: Develop an NLP-based pipeline for Named Entity Recognition to extract insights from financial and economic news.  
