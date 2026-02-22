@@ -18,6 +18,17 @@
 
 ## 🖥️ **Projects**:
 
+- **[TSIRD Atlas – Geospatial Data Engineering Pipeline](https://github.com/fikrukidane/tsird-atlas)** 🔒 *Private*  
+    **Objective**: Build a Docker-based geospatial ETL system for normalizing heterogeneous vector/raster datasets to EPSG:4326 with regional bounds validation and OGC WMS/WFS publication.  
+    - **Technology Stack**: Python 3.11, GeoPandas, GDAL 3.8, PostgreSQL 16 + PostGIS 3.4, MapServer 8.6, Docker Compose  
+    - **Key Features**:  
+        - CRS detection and normalization with YAML-driven coordinate overrides  
+        - Geometry validation (98% threshold) with automatic repair and quarantine logging  
+        - Regional separation engine (Tigray vs Ethiopia-wide classification)  
+        - MapServer WMS/WFS/WCS endpoints with multi-CRS support  
+        - Comprehensive audit trail generation (CSV + Markdown reports)  
+    - **Outcome**: Production-ready geospatial data engineering system demonstrating ETL design patterns, Docker orchestration, and OGC web services.  
+
 - **[Named Entity Recognition (NER) Project](https://github.com/fikrukidane/NER-Project)**  
     **Objective**: Develop an NLP-based pipeline for Named Entity Recognition to extract insights from financial and economic news.  
     - **Technology Stack**: Python, spaCy, Hugging Face Transformers, MySQL  
