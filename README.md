@@ -1,18 +1,26 @@
-# Hi there! 👋 I'm Fikru Kidane
+# Fikru Kidane
 
-🎓 **Solution Architect** | **Data Analyst** | **BI Expert**  
-💡 **Passionate about Data Analytics**, Visualizations, and Big Data Solutions.  
-📍 Based in Dallas, TX, I specialize in designing tailored data solutions to meet business needs.  
-📫 **Reach me** at [fikru.kidane@protonmail.com](mailto:fikru.kidane@protonmail.com) | **LinkedIn**: [Fikru Kidane](https://www.linkedin.com/in/fikru-yifter-kidane)
+**Solution Architect** • **Data Systems Engineer** • **Infrastructure & Analytics**
+
+Building containerized data platforms, designing scalable ETL pipelines, and architecting cloud-native analytics solutions. Experience with container orchestration, geospatial systems, and business intelligence infrastructure.
+
+📍 Dallas, TX  
+📫 [fikru.kidane@protonmail.com](mailto:fikru.kidane@protonmail.com) • [LinkedIn](https://www.linkedin.com/in/fikru-yifter-kidane)
 
 ---
 
-## 🔧 **Skills and Expertise**:
-- **Languages**: Python, SQL, NoSQL, JavaScript
-- **Data Tools**: Power BI, Tableau, Google Sheets
-- **Databases**: Oracle, MSSQL, MySQL, MongoDB, PostgreSQL
-- **Web Technologies**: HTML, CSS, Bootstrap
-- **Other**: Git, Jupyter Notebook, REST APIs, Docker
+## 🔧 **Tech Stack**
+
+| Category | Technologies |
+|----------|-------------|
+| **Containers & Infra** | Docker, Docker Compose, Nginx, Apache |
+| **Languages** | Python, SQL, JavaScript, Bash |
+| **Databases** | PostgreSQL, PostGIS, MySQL, MongoDB, Oracle, MSSQL |
+| **Data Engineering** | GDAL, GeoPandas, Pandas, ETL Pipelines |
+| **BI & Visualization** | Power BI, Tableau, Google Data Studio |
+| **Cloud** | GCP (Cloud Data Fusion, BigQuery, Airflow) |
+
+**Currently exploring**: OpenShift Virtualization, Kubernetes orchestration, cloud-native platform design
 
 ---
 
@@ -86,35 +94,13 @@
 
 ---
 
-## 🏆 **Achievements**:
-- Completed **Business Intelligence Analytics** training at **TripleTen**
-- Mastered the use of **SQL, Google Sheets, Tableau, and Power BI** for data analytics
-- Built interactive dashboards that increased client insights by **25%**
+
+## 💡 **Open To**
+
+Collaboration on data infrastructure projects • Freelance opportunities in data platform architecture • Full-time roles in solution architecture or data engineering
 
 ---
 
-## 📚 **Learning Journey**:
-I’m currently diving deeper into:
-- **Advanced Data Analytics** and **Machine Learning**
-- Exploring **NoSQL Databases** for real-time analytics
-- Improving my knowledge of **Cloud Computing** (AWS, GCP)
+## 📈 **GitHub Stats**
 
----
-
-## 💡 **What I’m Looking For**:
-I’m open to:
-- **Collaboration** on data projects
-- **Freelance opportunities** in data visualization and web development
-- **Full-time roles** in solution architecture or data analysis
-
----
-
-## 📈 **GitHub Stats**:
-![Fikru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
-
----
-
-## 📩 **Contact Me**:
-- **Email**: [fikru.kidane@protonmail.com](mailto:fikru.kidane@protonmail.com)
-- **LinkedIn**: [Fikru Kidane](https://www.linkedin.com/in/fikru-kidane)
-
+![Fikru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikrukidane&show_icons=true&theme=radical)
