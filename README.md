@@ -1,106 +1,119 @@
-# Fikru Kidane
+# Fikru Yiter Kidane
+### Data Engineer · BI Architect · Geospatial Systems · AI Integration
 
-**Solution Architect** • **Data Systems Engineer** • **Infrastructure & Analytics**
-
-Building containerized data platforms, designing scalable ETL pipelines, and architecting cloud-native analytics solutions. Experience with container orchestration, geospatial systems, and business intelligence infrastructure.
-
-📍 Dallas, TX  
-📫 [fikru.kidane@protonmail.com](mailto:fikru.kidane@protonmail.com) • [LinkedIn](https://www.linkedin.com/in/fikru-yifter-kidane)
+15+ years building data pipelines, analytics platforms, and intelligent systems
+across telecom, geospatial, and finance domains.
+Based in **Dallas, TX** · Open to new opportunities.
 
 ---
 
-## 🔧 **Tech Stack**
+## Featured Projects
 
-| Category | Technologies |
-|----------|-------------|
-| **Containers & Infra** | Docker, Docker Compose, Nginx, Apache |
-| **Languages** | Python, SQL, JavaScript, Bash |
-| **Databases** | PostgreSQL, PostGIS, MySQL, MongoDB, Oracle, MSSQL |
-| **Data Engineering** | GDAL, GeoPandas, Pandas, ETL Pipelines |
-| **BI & Visualization** | Power BI, Tableau, Google Data Studio |
-| **Cloud** | GCP (Cloud Data Fusion, BigQuery, Airflow) |
+### FYK Finance Tracker — AI-Powered Local Finance Intelligence
+> Plaid + Python + Telegram + Ollama · Built 2026
 
-**Currently exploring**: OpenShift Virtualization, Kubernetes orchestration, cloud-native platform design
+End-to-end personal finance intelligence system that connects to real bank
+accounts, runs automated weekly ETL pipelines, and delivers AI-powered
+insights — with zero financial data leaving the local machine.
 
----
+- Weekly automated Telegram reports with charts and anomaly detection
+- Natural language Q&A via local Ollama LLM (gpt-oss:20b)
+- Self-healing pipeline with Flask auto-start and Docker orchestration
+- 100% local — no cloud exposure of financial data
 
-## 🖥️ **Projects**:
+**Stack:** Python · Plaid API · pandas · matplotlib · Docker · Ollama · Telegram Bot API · WSL2
 
-- **[TSIRD Atlas – Containerized Geospatial Data Engineering Platform](https://github.com/fikrukidane/tsird-atlas)** 🔒 *Private*  
-    **Objective**: Design and deploy a multi-container orchestrated system for geospatial ETL processing, demonstrating infrastructure-as-code, service isolation, and container networking patterns.  
-    - **Infrastructure Stack**: Docker Compose orchestration, multi-service architecture (4 containers), persistent volume management, inter-service networking  
-    - **Container Services**: PostgreSQL 16 + PostGIS (data tier), Python/GDAL ETL (compute tier), MapServer (application tier), Nginx (edge proxy)  
-    - **Key Architecture Decisions**:  
-        - Zero host dependencies—entire stack containerized for reproducibility  
-        - Declarative infrastructure (docker-compose.yml, Dockerfiles)  
-        - Service isolation with explicit networking and volume mounts  
-        - Stateful container management for database persistence  
-    - **Deployment Patterns**: Health checks, automated restarts, logging aggregation, configuration injection via environment variables  
-    - **Outcome**: Production-ready containerized platform demonstrating modern orchestration practices applicable to hybrid cloud migrations.  
-
-- **[Named Entity Recognition (NER) Project](https://github.com/fikrukidane/NER-Project)**  
-    **Objective**: Develop an NLP-based pipeline for Named Entity Recognition to extract insights from financial and economic news.  
-    - **Technology Stack**: Python, spaCy, Hugging Face Transformers, MySQL  
-    - **Key Features**:  
-        - Designed a robust data pipeline to process news articles from multiple sources (e.g., GDELT, NewsAPI).  
-        - Integrated spaCy and Hugging Face models to extract named entities and store them in a structured format.  
-        - Developed a logging mechanism for tracking and debugging data processing.  
-        - Created a modular system for fetching, processing, and visualizing data insights.  
-    - **Outcome**: Successfully showcased the potential of automated entity recognition for business intelligence.  
-
-- **Upen Data Project**
-  
-    ### 1. Secure and Scalable ETL Pipeline on Google Cloud Platform
-    **Objective**: Build a scalable and secure ETL pipeline to handle sensitive employee data using Google Cloud services.  
-    - **Technology Stack**: GCP (Cloud Data Fusion, Airflow, BigQuery, Cloud Storage), Python, Data Studio  
-    - **Key Features**: 
-      - Automated data extraction, transformation, and loading using Cloud Data Fusion and Airflow.  
-      - Implemented data masking for sensitive fields like SSN and salary.  
-      - Visualized transformed data using Data Studio, integrated with BigQuery.
-    - **Outcome**: Successfully built a secure, scalable pipeline optimized for resource usage and data protection.  
-    - **[View Project](request access)**
-  
-- **TripleTen Data Projects** 
-  
-    ### 1. Spreadsheet Data Analysis (NYC Airbnb)
-    **Objective**: Guide a client on which property types and neighborhoods to invest in for Manhattan vacation rentals by analyzing Airbnb data.  
-    - **Data**: NYC Airbnb Data  
-    - **Key Insights**: Identified the most attractive neighborhoods and property sizes, and calculated the revenue generated by these listings.
-    - **[View Project](https://github.com/fikrukidane/Spreadsheet-Data-Analysis-NYC-Airbnb-)**
-        
-    ### 2. Zuber Ride-Sharing Data Analysis
-    **Objective**: Analyze data for a ride-sharing company in Chicago to understand passenger preferences and the impact of external factors like weather on ride frequency.  
-    - **Data**: Competitor ride data, weather data  
-    - **Key Insights**: Found significant patterns between weather changes and ride demand, helping Zuber adjust its strategies.  
-    - **[View Project](https://github.com/fikrukidane/Zuber-Ride-Sharing-Data-Analysis-)**
-        
-    ### 3. Superstore Data Analysis (Storytelling with Data)
-    **Objective**: Analyze Superstore's data to help the CEO understand what causes the high rate of returned orders and recommend strategies to reduce returns.  
-    - **Data**: Superstore sales data  
-    - **Key Insights**: Provided recommendations that addressed customer dissatisfaction factors, leading to reduced order returns.  
-    - **[View Project](https://github.com/fikrukidane/Superstore-Data-Analysis-)**
-        
-    ### 4. Power BI Shopify App Analysis
-    **Objective**: Analyze Shopify app data to identify key factors contributing to app success on the platform, using Power BI for data visualization.  
-    - **Data**: Shopify App data  
-    - **Key Insights**: Found correlations between app features and popularity, providing insights for app developers.  
-    - **[View Project](https://github.com/fikrukidane/PowerBI-Shopify-App-Analysis-)**
-        
-    ### 5. Zomato Business Analysis (Final Project)
-    **Objective**: Analyze business performance for Zomato, focusing on customer segmentation, popular restaurants, and sales dynamics.  
-    - **Data**: Zomato dataset  
-    - **Key Insights**: Created customer segments, identified high-revenue restaurants, and visualized key sales metrics over time.  
-    - **[View Project](https://github.com/fikrukidane/Zomato-Business-Analysis-)**
+[View Demo Repo](https://github.com/fikrukidane/finance-tracker-demo)
 
 ---
 
+### TSIRD Atlas — Production Geospatial Data Engineering Platform
+> PostGIS + MapServer + ETL · Production 2026
 
-## 💡 **Open To**
+Production-grade containerized geospatial data engineering pipeline for
+national-scale spatial data processing. Multi-container Docker architecture
+with full ETL, WMS layer management, vector normalization, and a
+registry-driven web atlas.
 
-Collaboration on data infrastructure projects • Freelance opportunities in data platform architecture • Full-time roles in solution architecture or data engineering
+- Multi-container stack: PostGIS · MapServer · Nginx · Python ETL
+- Vector normalization pipeline to EPSG:4326
+- Registry-driven layer catalog with audit reports
+- Tigrinya/Amharic gazetteer for place name search
+- WMS/WFS endpoints with OpenLayers frontend
+
+**Stack:** Docker · PostGIS · MapServer · Python · GDAL · GeoPandas · Nginx · JavaScript · OpenLayers
+
+[View Repo](https://github.com/fikrukidane/tsird-atlas)
 
 ---
 
-## 📈 **GitHub Stats**
+### ETL Pipeline on Google Cloud Platform
+> Cloud Data Fusion · Airflow · BigQuery · 2024
 
-![Fikru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikrukidane&show_icons=true&theme=radical)
+Secure and scalable cloud-native ETL pipeline for sensitive employee data.
+Automated extraction, transformation, and loading with data masking,
+Airflow orchestration, and BigQuery analytics.
+
+**Stack:** GCP · Cloud Data Fusion · Airflow · BigQuery · Cloud Storage · Python · Data Studio
+
+[View Repo](https://github.com/fikrukidane/ETL-Pipeline-on-Google-Cloud)
+
+---
+
+### NER Project — Named Entity Recognition for Financial News
+> spaCy · Hugging Face · Python · 2025
+
+NLP pipeline for extracting named entities from financial and economic news.
+Modular architecture with GDELT/NewsAPI data ingestion, transformer-based
+entity extraction, and structured MySQL storage.
+
+**Stack:** Python · spaCy · Hugging Face Transformers · MySQL · GDELT · NewsAPI
+
+[View Repo](https://github.com/fikrukidane/NER-Project)
+
+---
+
+## Tech Stack
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | Python · SQL · JavaScript · Bash |
+| **Data Engineering** | pandas · GDAL · GeoPandas · ETL pipelines · FME |
+| **Databases** | PostgreSQL · PostGIS · BigQuery · MySQL · MongoDB |
+| **GIS & Geospatial** | ArcGIS Enterprise · MapServer · PostGIS · OpenLayers |
+| **Cloud** | GCP (BigQuery · Airflow · Cloud Data Fusion · Cloud Storage) |
+| **AI & Local LLM** | Ollama · OpenClaw · Hugging Face · spaCy |
+| **Infrastructure** | Docker · Docker Compose · Nginx · Apache · WSL2 · Linux |
+| **BI & Visualization** | Power BI · Tableau · matplotlib · Data Studio |
+| **APIs & Automation** | REST APIs · Plaid API · Telegram Bot API · Webhook automation |
+
+---
+
+## Background
+
+- 15+ years in BI, data analytics, and geospatial systems
+- Telecom analytics background (EthioTelecom / ZTE, Congruex, ISON)
+- Academic research background — mathematics and spatial analysis
+- Experience across Africa, Europe, and the United States
+- U.S. Permanent Resident · Dallas, TX
+
+---
+
+## Tableau Public
+
+- [Profile 1](https://public.tableau.com/app/profile/fikru.kidane/vizzes)
+- [Profile 2](https://public.tableau.com/app/profile/fikruyk/vizzes)
+
+---
+
+## Open To
+
+Full-time · Contract · Consulting
+
+**Target roles:**
+Data Analyst · BI Developer · Analytics Engineer ·
+Data Engineer · Geospatial Data Engineer · Business Systems Analyst
+
+📍 Dallas, TX (on-site, hybrid, or remote)
+📫 fikru.kidane@protonmail.com
+💼 [LinkedIn](https://linkedin.com/in/fikrukidane)
