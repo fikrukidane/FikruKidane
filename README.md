@@ -1,7 +1,7 @@
 # Fikru Yiter Kidane
 ### Data Engineer · BI Architect · Geospatial Systems · AI Integration
 
-15+ years building data pipelines, analytics platforms, and intelligent systems
+20+ years building data pipelines, analytics platforms, and intelligent systems
 across telecom, geospatial, and finance domains.
 Based in **Dallas, TX** · Open to new opportunities.
 
@@ -91,8 +91,8 @@ entity extraction, and structured MySQL storage.
 
 ## Background
 
-- 15+ years in BI, data analytics, and geospatial systems
-- Telecom analytics background (EthioTelecom / ZTE, Congruex, ISON)
+- 20+ years in BI, data analytics, and geospatial systems
+- Telecom analytics background (Vodafone Italy, EthioTelecom/ZTE, ISON, FlexSolv, Congruex)
 - Academic research background — mathematics and spatial analysis
 - Experience across Africa, Europe, and the United States
 - U.S. Permanent Resident · Dallas, TX
