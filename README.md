@@ -3,7 +3,7 @@
 
 20+ years building data pipelines, analytics platforms, and intelligent systems
 across telecom, geospatial, and finance domains.
-Based in **Dallas, TX** · Open to new opportunities.
+Open to new opportunities.
 
 ---
 
