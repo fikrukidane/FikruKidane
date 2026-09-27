@@ -114,6 +114,5 @@ Full-time · Contract · Consulting
 Data Analyst · BI Developer · Analytics Engineer ·
 Data Engineer · Geospatial Data Engineer · Business Systems Analyst
 
-📍 Dallas, TX (on-site, hybrid, or remote)
 📫 fikru.kidane@protonmail.com
 💼 [LinkedIn](https://linkedin.com/in/fikrukidane)
