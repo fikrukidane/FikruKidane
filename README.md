@@ -60,19 +60,6 @@ Airflow orchestration, and BigQuery analytics.
 
 ---
 
-### NER Project — Named Entity Recognition for Financial News
-> spaCy · Hugging Face · Python · 2025
-
-NLP pipeline for extracting named entities from financial and economic news.
-Modular architecture with GDELT/NewsAPI data ingestion, transformer-based
-entity extraction, and structured MySQL storage.
-
-**Stack:** Python · spaCy · Hugging Face Transformers · MySQL · GDELT · NewsAPI
-
-[View Repo](https://github.com/fikrukidane/NER-Project)
-
----
-
 ## Tech Stack
 
 | Domain | Technologies |
