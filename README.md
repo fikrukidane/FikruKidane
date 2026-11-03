@@ -1,5 +1,5 @@
-# Fikru Yiter Kidane
-### Data Engineer · BI Architect · Geospatial Systems · AI Integration
+# Frank Kidane
+### Business & Systems Analyst · GIS, ETL & Data Platforms · Telecom & Finance
 
 20+ years building data pipelines, analytics platforms, and intelligent systems
 across telecom, geospatial, and finance domains.
@@ -95,7 +95,6 @@ entity extraction, and structured MySQL storage.
 - Telecom analytics background (Vodafone Italy, EthioTelecom/ZTE, ISON, FlexSolv, Congruex)
 - Academic research background — mathematics and spatial analysis
 - Experience across Africa, Europe, and the United States
-- U.S. Permanent Resident · Dallas, TX
 
 ---
 
