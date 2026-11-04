@@ -87,8 +87,8 @@ Airflow orchestration, and BigQuery analytics.
 
 ## Tableau Public
 
-- [Profile 1](https://public.tableau.com/app/profile/fikru.kidane/vizzes)
-- [Profile 2](https://public.tableau.com/app/profile/fikruyk/vizzes)
+- [Business dashboards](https://public.tableau.com/app/profile/fikru.kidane/vizzes)
+- [Geospatial dashboards](https://public.tableau.com/app/profile/fikruyk/vizzes)
 
 ---
 
